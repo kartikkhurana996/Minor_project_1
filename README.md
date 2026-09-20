@@ -81,6 +81,6 @@ GroupDNA identifies communication patterns using predefined archetypes:
 ```text
 GroupDNA/
 │
-├── GroupDNA.ipynb
-├── hostel_bois.txt
+├── Kartikkhurana_minor_project1.ipynb
+├── whatsappchat.txt
 └── README.md
